@@ -112,8 +112,6 @@ User → Frontend (Softr) → Backend (Airtable) → Logic (Formulas) → Displa
 ### 🔹 Tool Listing
 ![Tool List](images/tool-list.png)
 
-### 🔹 Scoring System
-![Scoring](images/scoring.png)
 
 ---
 
